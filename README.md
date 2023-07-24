@@ -1,20 +1,9 @@
 
 <h1 align="center">Object-Relational Mapping (ORM): E-Commerce Back End 👋</h1>
   
-<p align="center">
-  
-
-</p>
-  
-<p align="center">
- 
-</p>
    
 ## Description
 
-🔍 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
-  
-💻 Below is the gif showing the functionality of the application:
   
 ![DB Setup and Start](./animations/DB%20setup%20and%20start.gif)
 
