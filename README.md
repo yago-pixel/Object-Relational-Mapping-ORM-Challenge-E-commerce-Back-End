@@ -107,5 +107,5 @@ Enter PW when promted
 No testing is currently set up
 
 ## Contributing
-:octocat: [Yago Lira](https://github.com/yago-pixel/Object-Relational-Mapping-ORM-Challenge-E-commerce-Back-End.git
+:octocat: [Yago Lira](https://github.com/yago-pixel/Object-Relational-Mapping-ORM-Challenge-E-commerce-Back-End.git)
 
